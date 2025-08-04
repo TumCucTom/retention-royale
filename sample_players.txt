@@ -1,0 +1,18 @@
+# Sample Clash Royale Player Tags
+# Replace these with actual player tags you want to analyze
+# You can find player tags in-game or from leaderboards
+
+# Example player tags (replace with real ones):
+#8L9L9GL
+#2L0L0GL  
+#9L9L9GL
+#2L2L2GL
+#8L8L8GL
+
+# To get player tags:
+# 1. In Clash Royale, go to a player's profile
+# 2. Copy their player tag (starts with #)
+# 3. Add it to this file
+# 4. Run the data collection script
+
+# Note: You need a valid API token from https://developer.clashofclans.com/ 
